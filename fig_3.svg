@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="graph for the papaer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="false"
+     showguides="true"
+     inkscape:zoom="0.95490146"
+     inkscape:cx="174.88715"
+     inkscape:cy="299.50734"
+     inkscape:window-width="1898"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-text-baseline="false" />
+  <defs
+     id="defs2">
+    <marker
+       id="ExperimentalArrow"
+       refX="5.0"
+       refY="3.0"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="m 10,3 -10,3 0,-6 z"
+         id="path1338" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1088" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1346"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1085" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2672" />
+    </marker>
+    <rect
+       x="510.77575"
+       y="406.70669"
+       width="125.6006"
+       height="51.436434"
+       id="rect72209" />
+    <rect
+       x="595.4297"
+       y="538.26845"
+       width="42.870939"
+       height="407.27392"
+       id="rect18349" />
+    <rect
+       x="176.43564"
+       y="91.690964"
+       width="323.69689"
+       height="45.845482"
+       id="rect3383" />
+    <clipPath
+       id="clip0">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101" />
+    </clipPath>
+    <clipPath
+       id="clip0-5">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-6" />
+    </clipPath>
+    <clipPath
+       id="clip0-0">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4357" />
+    </clipPath>
+    <clipPath
+       id="clip0-1">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471" />
+    </clipPath>
+    <clipPath
+       id="clip0-1-5">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471-6" />
+    </clipPath>
+    <clipPath
+       id="clip0-1-9">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471-7" />
+    </clipPath>
+    <clipPath
+       id="clip0-1-57">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471-2" />
+    </clipPath>
+    <clipPath
+       id="clip0-1-9-4">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471-7-6" />
+    </clipPath>
+    <clipPath
+       id="clip0-1-9-4-9">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect4471-7-6-9" />
+    </clipPath>
+    <clipPath
+       id="clip0-4">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-4" />
+    </clipPath>
+    <clipPath
+       id="clip0-4-8">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-4-9" />
+    </clipPath>
+    <clipPath
+       id="clip0-4-3">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-4-95" />
+    </clipPath>
+    <clipPath
+       id="clip0-4-1">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-4-2" />
+    </clipPath>
+    <clipPath
+       id="clip0-4-83">
+      <rect
+         x="198"
+         y="237"
+         width="632"
+         height="129"
+         id="rect101-4-26" />
+    </clipPath>
+    <clipPath
+       id="clip0-44">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-2">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-7" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-2-7">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-7-9" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-6">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-6" />
+    </clipPath>
+    <clipPath
+       id="clip0-3">
+      <rect
+         x="997"
+         y="216"
+         width="192"
+         height="90"
+         id="rect115692" />
+    </clipPath>
+    <clipPath
+       id="clip0-45">
+      <rect
+         x="1294"
+         y="472"
+         width="38"
+         height="161"
+         id="rect115796" />
+    </clipPath>
+    <clipPath
+       id="clip0-55">
+      <rect
+         x="199"
+         y="650"
+         width="319"
+         height="6"
+         id="rect115893" />
+    </clipPath>
+    <clipPath
+       id="clip0-55-0">
+      <rect
+         x="199"
+         y="650"
+         width="319"
+         height="6"
+         id="rect115893-9" />
+    </clipPath>
+    <clipPath
+       id="clip0-8">
+      <rect
+         x="196"
+         y="653"
+         width="6"
+         height="131"
+         id="rect115945" />
+    </clipPath>
+    <clipPath
+       id="clip0-8-6">
+      <rect
+         x="196"
+         y="653"
+         width="6"
+         height="131"
+         id="rect115945-7" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-5">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-60" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-2-8">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-7-4" />
+    </clipPath>
+    <clipPath
+       id="clip0-56">
+      <rect
+         x="199"
+         y="652"
+         width="395"
+         height="2"
+         id="rect146495" />
+    </clipPath>
+    <clipPath
+       id="clip0-44-2-8-2">
+      <rect
+         x="1067"
+         y="219"
+         width="38"
+         height="112"
+         id="rect115471-7-4-1" />
+    </clipPath>
+    <clipPath
+       id="clip0-40">
+      <rect
+         x="826"
+         y="513"
+         width="6"
+         height="174"
+         id="rect149347" />
+    </clipPath>
+    <clipPath
+       id="clip0-3-4">
+      <rect
+         x="997"
+         y="216"
+         width="192"
+         height="90"
+         id="rect115692-0" />
+    </clipPath>
+    <clipPath
+       id="clip0-3-2">
+      <rect
+         x="997"
+         y="216"
+         width="192"
+         height="90"
+         id="rect115692-2" />
+    </clipPath>
+    <clipPath
+       id="clip0-3-5">
+      <rect
+         x="997"
+         y="216"
+         width="192"
+         height="90"
+         id="rect115692-4" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.14242048,0,0,0.12196428,-20.148255,-17.2908)"
+       id="g108"
+       style="fill:#f2f2f2">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#e2a326"
+         fill-rule="evenodd"
+         id="path106"
+         style="fill:#f2f2f2" />
+    </g>
+    <g
+       clip-path="url(#clip0-5)"
+       transform="matrix(0.14242574,0,0,0.12196343,84.219703,-17.290733)"
+       id="g108-3"
+       style="fill:#cccccc">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#e2a326"
+         fill-rule="evenodd"
+         id="path106-6"
+         style="fill:#cccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.247427"
+       y="21.840122"
+       id="text1381"><tspan
+         sodipodi:role="line"
+         id="tspan1379"
+         style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
+         x="28.247427"
+         y="21.840122">Asymptomatic</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,88.116452,-8.7982516)"
+       id="text3381"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3383);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="176.43555"
+         y="116.02025"
+         id="tspan2728">Symptomatic</tspan></text>
+    <g
+       clip-path="url(#clip0-1)"
+       transform="matrix(0.06272046,0,0,0.08817936,-2.6485883,15.31739)"
+       id="g4478"
+       style="fill:#e9c6af">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476"
+         style="fill:#e9c6af" />
+    </g>
+    <g
+       clip-path="url(#clip0-1-9)"
+       transform="matrix(0.06272046,0,0,0.08817936,99.720842,15.317389)"
+       id="g4478-1"
+       style="fill:#e9c6af">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476-9"
+         style="fill:#e9c6af" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.87399"
+       y="43.741314"
+       id="text7749-7"><tspan
+         sodipodi:role="line"
+         id="tspan7747-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="113.87399"
+         y="43.741314">LAMP NEGATIVE</tspan></text>
+    <g
+       clip-path="url(#clip0-1-57)"
+       transform="matrix(0.06272046,0,0,0.08817936,149.71094,15.317492)"
+       id="g4478-3"
+       style="fill:#e9c6af">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476-4"
+         style="fill:#e9c6af" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="164.53799"
+       y="43.745102"
+       id="text7749-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan7747-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="164.53799"
+         y="43.745102">LAMP POSITIVE</tspan></text>
+    <g
+       clip-path="url(#clip0-1-5)"
+       transform="matrix(0.06272046,0,0,0.08817936,45.319852,15.317389)"
+       id="g4478-6"
+       style="fill:#e9c6af">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476-8"
+         style="fill:#e9c6af" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="60.107986"
+       y="43.745102"
+       id="text7749-0"><tspan
+         sodipodi:role="line"
+         id="tspan7747-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="60.107986"
+         y="43.745102">LAMP POSITIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.430987"
+       y="43.741333"
+       id="text7749"><tspan
+         sodipodi:role="line"
+         id="tspan7747"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="11.430987"
+         y="43.741333">LAMP NEGATIVE</tspan></text>
+    <g
+       clip-path="url(#clip0-1-9-4)"
+       transform="matrix(0.0662334,0,0,0.08814659,126.34512,35.293081)"
+       id="g4478-1-9"
+       style="fill:#e3dedb">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476-9-2"
+         style="fill:#e3dedb" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="139.9765"
+       y="63.433952"
+       id="text12784-2"><tspan
+         sodipodi:role="line"
+         id="tspan12782-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="139.9765"
+         y="63.433952">RT-PCR POSITIVE</tspan></text>
+    <g
+       clip-path="url(#clip0-1-9-4-9)"
+       transform="matrix(0.06623265,0,0,0.08814731,74.395829,35.543635)"
+       id="g4478-1-9-7"
+       style="fill:#f2f2f2">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#d9d9d9"
+         fill-rule="evenodd"
+         id="path4476-9-2-9"
+         style="fill:#f2f2f2" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.85025"
+       y="63.95792"
+       id="text12784"><tspan
+         sodipodi:role="line"
+         id="tspan12782"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="87.85025"
+         y="63.95792">RT-PCR NEGATIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text18347"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect18349)" />
+    <g
+       clip-path="url(#clip0-4)"
+       transform="matrix(0.0997691,0,0,0.14017663,-15.283906,71.778138)"
+       id="g108-5"
+       style="fill:#2ca05a">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#e2a326"
+         fill-rule="evenodd"
+         id="path106-8"
+         style="fill:#2ca05a" />
+    </g>
+    <g
+       clip-path="url(#clip0-4-1)"
+       transform="matrix(0.10182417,0,0,0.14032561,52.481256,71.74283)"
+       id="g108-5-2"
+       style="fill:#ffcc00">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#e2a326"
+         fill-rule="evenodd"
+         id="path106-8-8"
+         style="fill:#ffcc00" />
+    </g>
+    <g
+       clip-path="url(#clip0-4-83)"
+       transform="matrix(0.09881146,0,0,0.14598363,122.0565,70.40188)"
+       id="g108-5-9"
+       style="fill:#c83737">
+      <path
+         d="M 199,259.167 C 199,247.477 208.477,238 220.167,238 h 587.666 c 11.69,0 21.167,9.477 21.167,21.167 v 84.666 C 829,355.523 819.523,365 807.833,365 H 220.167 C 208.477,365 199,355.523 199,343.833 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#e2a326"
+         fill-rule="evenodd"
+         id="path106-8-1"
+         style="fill:#c83737" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.1395292"
+       y="110.13602"
+       id="text38438"><tspan
+         sodipodi:role="line"
+         id="tspan38436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="8.1395292"
+         y="110.13602">No known contact with </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="8.1395292"
+         y="115.42768"
+         id="tspan48232">sick individuals:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="8.1395292"
+         y="120.71935"
+         id="tspan38440">No quarantine needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.41893"
+       y="109.95346"
+       id="text62220"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="74.41893"
+         y="109.95346"
+         id="tspan84319">Known/suspected close</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="74.41893"
+         y="115.24512"
+         id="tspan86049">contact with sick individuals: </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="74.41893"
+         y="120.53679"
+         id="tspan67093">Quarantine</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text72207"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect72209)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="149.10176"
+       y="110.50721"
+       id="text95227"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="149.10176"
+         y="110.50721"
+         id="tspan118495">SARS-CoV-2 infection </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="149.10176"
+         y="115.79887"
+         id="tspan141111">detected:</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="149.10176"
+         y="121.09053"
+         id="tspan97534">Isolate</tspan></text>
+    <g
+       clip-path="url(#clip0-44)"
+       transform="matrix(0.26458333,0,0,0.08761919,-257.27061,8.3864619)"
+       id="g115478">
+      <path
+         d="m 1089,219 v 78 h -6 v -78 z m 6,75 -9,18 -9,-18 z"
+         id="path115476" />
+    </g>
+    <g
+       clip-path="url(#clip0-44-2)"
+       transform="matrix(0.26458333,0,0,0.08761919,-209.72122,8.3863974)"
+       id="g115478-5">
+      <path
+         d="m 1089,219 v 78 h -6 v -78 z m 6,75 -9,18 -9,-18 z"
+         id="path115476-7" />
+    </g>
+    <g
+       clip-path="url(#clip0-44-6)"
+       transform="matrix(0.26458333,0,0,0.08761919,-152.80513,8.3864619)"
+       id="g115478-8">
+      <path
+         d="m 1089,219 v 78 h -6 v -78 z m 6,75 -9,18 -9,-18 z"
+         id="path115476-77" />
+    </g>
+    <g
+       clip-path="url(#clip0-44-2-7)"
+       transform="matrix(0.26458333,0,0,0.08761919,-105.25574,8.2809312)"
+       id="g115478-5-8">
+      <path
+         d="m 1089,220.20369 v 78 h -6 v -78 z m 6,75 -9,18 -9,-18 z"
+         id="path115476-7-1" />
+    </g>
+    <g
+       clip-path="url(#clip0-3)"
+       transform="matrix(0.16014823,0,0,0.12006472,-40.627522,21.855838)"
+       id="g115701">
+      <path
+         d="m 1087.9,216.675 72.37,59.02 -3.79,4.65 -72.38,-59.02 z m 73.84,52.474 8.26,18.351 -19.64,-4.401 z"
+         id="path115697" />
+      <path
+         d="M 2.02315,-2.21514 65.9479,56.1691 61.9016,60.5994 -2.02315,2.21514 Z M 67.7791,49.7157 75.0005,68.5 55.6402,63.0065 Z"
+         transform="matrix(-1,0,0,1,1091,219)"
+         id="path115699" />
+    </g>
+    <g
+       clip-path="url(#clip0-3-2)"
+       transform="matrix(0.16374652,0,0,0.15918675,-112.27999,57.182521)"
+       id="g115701-0">
+      <path
+         d="m 1087.9,216.675 72.37,59.02 -3.79,4.65 -72.38,-59.02 z m 73.84,52.474 8.26,18.351 -19.64,-4.401 z"
+         id="path115697-4" />
+      <path
+         d="M 2.02315,-2.21514 65.9479,56.1691 61.9016,60.5994 -2.02315,2.21514 Z M 67.7791,49.7157 75.0005,68.5 55.6402,63.0065 Z"
+         transform="matrix(-1,0,0,1,1091,219)"
+         id="path115699-8" />
+    </g>
+    <g
+       clip-path="url(#clip0-45)"
+       transform="matrix(0.19927513,0,0,0.22951109,-98.24715,-40.320053)"
+       id="g115803">
+      <path
+         d="m 1316,472 v 127 h -6 V 472 Z m 6,124 -9,18 -9,-18 z"
+         fill="#c00000"
+         id="path115801" />
+    </g>
+    <g
+       clip-path="url(#clip0-55)"
+       transform="matrix(0.2717227,0,0,-0.26458333,24.214545,245.71676)"
+       id="g115900">
+      <path
+         d="M 199,653 H 514.35"
+         stroke="#c00000"
+         stroke-width="6"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path115898" />
+    </g>
+    <g
+       clip-path="url(#clip0-55-0)"
+       transform="matrix(0.10956536,0,0,-0.26458333,127.55464,245.71666)"
+       id="g115900-2">
+      <path
+         d="M 199,653 H 514.35"
+         stroke="#c00000"
+         stroke-width="6"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path115898-4" />
+    </g>
+    <g
+       clip-path="url(#clip0-8)"
+       transform="matrix(0.26458333,0,0,0.20000784,131.2575,-82.563125)"
+       id="g115952">
+      <path
+         d="M 199,653 V 780.5"
+         stroke="#c00000"
+         stroke-width="6"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path115950" />
+    </g>
+    <g
+       clip-path="url(#clip0-8-6)"
+       transform="matrix(0.26458333,0,0,0.20000784,25.63528,-82.56312)"
+       id="g115952-5">
+      <path
+         d="M 199,653 V 780.5"
+         stroke="#c00000"
+         stroke-width="6"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path115950-9" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 65.859848,91.67431 65.82977,81.613443 107.56259,67.593979"
+       id="path1337"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.20976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 65.82977,81.613443 29.14467,47.567173"
+       id="path1339"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
